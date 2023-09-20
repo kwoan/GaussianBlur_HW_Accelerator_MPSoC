@@ -1,1 +1,0 @@
-# GaussianBlur_HW_Accelerator_MPSoC
